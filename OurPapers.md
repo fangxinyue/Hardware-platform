@@ -3,7 +3,7 @@
 - Decentralized Deep Reinforcement Learning Meets Mobility Load Balancing (https://ieeexplore.ieee.org/abstract/document/9873839)
 - Load Balancing Algorithms in Fog Computing
 - A Load Balancing Algorithm for Equalising Latency Across Fog or Edge Computing Nodes
-- An Efficient Virtual Decentralized Cloud Load Balancing(VDCLB) 
+- An Efficient Virtual Decentralized Cloud Load Balancing(VDCLB) (https://ieeexplore.ieee.org/document/10420318)
 
 ## Alternative papers:
 

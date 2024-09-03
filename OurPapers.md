@@ -3,7 +3,7 @@
 
 ## Alternative papers:
 
-# Plan B: Security algorithms on FPGA w.r.t hardware – hardware security
+# Plan B: Security algorithms on FPGA w.r.t hardware - hardware security
 ## Selected papers:
 
 ## Alternative papers:

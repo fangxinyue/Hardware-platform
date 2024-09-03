@@ -2,6 +2,10 @@
 ## Selected papers:
 Decentralized Deep Reinforcement Learning Meets Mobility Load Balancing (https://ieeexplore.ieee.org/abstract/document/9873839)
 ## Alternative papers:
+An Efficient Virtual Decentralized Cloud Load Balancing(VDCLB) (https://ieeexplore.ieee.org/document/10420318)
+
+
+
 
 # Plan B: Security algorithms on FPGA w.r.t hardware - hardware security
 ## Selected papers:

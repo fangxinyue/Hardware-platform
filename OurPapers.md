@@ -2,7 +2,7 @@
 ## Selected papers:
 - Decentralized Deep Reinforcement Learning Meets Mobility Load Balancing (https://ieeexplore.ieee.org/abstract/document/9873839)
 - Load Balancing Algorithms in Fog Computing
-- A Load Balancing Algorithm for Equalising Latency Across Fog or Edge Computing Nodes
+- A Load Balancing Algorithm for Equalising Latency Across Fog or Edge Computing Nodes(https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/stamp/stamp.jsp?tp=&arnumber=10098189)
 - An Efficient Virtual Decentralized Cloud Load Balancing(VDCLB) (https://ieeexplore.ieee.org/document/10420318)
 
 ## Alternative papers:
@@ -15,7 +15,7 @@
 ## Selected papers:
 - Design and Analysis of FPGA-based PUFs with Enhanced Performance for Hardware-oriented Security (https://dl.acm.org/doi/abs/10.1145/3517813)
 - The Road Not Taken: eFPGA Accelerators Utilized for SoC Security Auditing  
-- A Design Implementation and Comparative Analysis of Advanced Encryption Standard (AES) Algorithm on FPGA
+- A Design Implementation and Comparative Analysis of Advanced Encryption Standard (AES) Algorithm on FPGA(https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/document/9198033)
 - Ultra High-Speed Polynomial Multiplications for Lattice-Based Cryptography on FPGAs
 
 ## Alternative papers:

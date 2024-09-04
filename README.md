@@ -10,7 +10,10 @@
 - Design and Analysis of FPGA-based PUFs with Enhanced Performance for Hardware-oriented Security (https://dl.acm.org/doi/abs/10.1145/3517813)
 
 # 李晗
-
++ 分布式负载均衡：
+-A Load Balancing Algorithm for Equalising Latency Across Fog or Edge Computing Nodes(https://ieeexplore.ieee.org/document/10098189)
++ 硬件安全：
+-A Design Implementation and Comparative Analysis of Advanced Encryption Standard (AES) Algorithm on FPGA (https://ieeexplore.ieee.org/abstract/document/9198033)
 # 牛诗然
 
 # 丁岩

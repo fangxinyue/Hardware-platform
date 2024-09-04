@@ -15,5 +15,8 @@
 + 硬件安全：
 -A Design Implementation and Comparative Analysis of Advanced Encryption Standard (AES) Algorithm on FPGA (https://ieeexplore.ieee.org/abstract/document/9198033)
 # 牛诗然
-
++ 分布式负载均衡：
+-Load Balancing Algorithms in Fog Computing(https://ieeexplore.ieee.org/abstract/document/9772936)
++ 硬件安全：
+-The Road Not Taken: eFPGA Accelerators Utilized for SoC Security Auditing(https://ieeexplore.ieee.org/abstract/document/10496439)
 # 丁岩

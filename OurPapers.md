@@ -1,7 +1,7 @@
 # Plan A: Decentralized Load Balancing Algorithms - Implementation/Performance Evaluation Studies
 ## Selected papers:
 - Decentralized Deep Reinforcement Learning Meets Mobility Load Balancing (https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/document/9873839)
-- Load Balancing Algorithms in Fog Computing ( https://ieeexplore.ieee.org/abstract/document/9772936 )
+- Load Balancing Algorithms in Fog Computing (https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/document/9772936)
 - A Load Balancing Algorithm for Equalising Latency Across Fog or Edge Computing Nodes (https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/document/10098189)
 - An Efficient Virtual Decentralized Cloud Load Balancing(VDCLB) (https://ieeexplore.ieee.org/document/10420318)
 

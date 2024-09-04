@@ -1,5 +1,7 @@
 # Hardware-platform
-论文下载渠道：https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/Xplore/home.jsp
+论文下载渠道：
+- https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/Xplore/home.jsp
+- https://libguides.nus.edu.sg/computer_science/databases
 # 方新悦
 ## 论文选题
 + 分布式负载均衡：

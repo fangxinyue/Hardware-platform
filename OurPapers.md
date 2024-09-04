@@ -16,7 +16,7 @@
 ## Selected papers:
 - Design and Analysis of FPGA-based PUFs with Enhanced Performance for Hardware-oriented Security (https://dl-acm-org.libproxy1.nus.edu.sg/doi/10.1145/3517813)
 - The Road Not Taken: eFPGA Accelerators Utilized for SoC Security Auditing (https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/document/10496439)
-- A Design Implementation and Comparative Analysis of Advanced Encryption Standard (AES) Algorithm on FPGA (https://ieeexplore.ieee.org/abstract/document/9198033)
+- A Design Implementation and Comparative Analysis of Advanced Encryption Standard (AES) Algorithm on FPGA (https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/document/9198033)
 - Ultra High-Speed Polynomial Multiplications for Lattice-Based Cryptography on FPGAs (https://ieeexplore.ieee.org/abstract/document/9693303)
 
 ## Alternative papers:

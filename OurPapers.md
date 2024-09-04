@@ -7,7 +7,7 @@
 
 ## Alternative papers:
 
-
+- Decentralized Edge-to-Cloud Load Balancing: Service Placement for the Internet of Things (https://ieeexplore.ieee.org/abstract/document/9418552)
 
 
 

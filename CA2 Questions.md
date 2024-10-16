@@ -5,7 +5,7 @@
 
 
 
-
+multiprocessing能在GPU上跑吗？需要多个GPU吗？
 在 Python 中，`multiprocessing` 模块是专门用于在 **CPU** 上实现并行计算的，它通过创建多个进程并利用多核 CPU 来实现并行处理。而对于 **GPU** 的并行计算，通常使用的是专门为 GPU 设计的库和框架。以下是一些关于 `multiprocessing` 和 GPU 并行计算的区别和使用方法的详细解答：
 
 ### 1. **`multiprocessing` 在 GPU 上的适用性**
